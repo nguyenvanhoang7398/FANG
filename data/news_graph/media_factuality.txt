@@ -1,0 +1,440 @@
+abcnews-us mediabiasfactcheck very_low
+abcnews.go mediabiasfactcheck high
+actionnews3 mediabiasfactcheck very_low
+activistmommy mediabiasfactcheck low
+adn mediabiasfactcheck high
+afp.google n
+alexander.senate.gov n high
+allianceforschoolchoice.org n high
+america.aljazeera mediabiasfactcheck mixed
+americanproud.info politifact very_low
+ap.google n
+babylonbee politifact very_low
+barackobama n very_high
+bbc n high
+berniesanders n very_high
+blingnews mediabiasfactcheck low
+bls.gov n very_high
+bluedotdaily mediabiasfactcheck low
+breakingnews247.net mediabiasfactcheck low
+breakingnews365.net mediabiasfactcheck low
+breitbart mediabiasfactcheck mixed
+businessinsider mediabiasfactcheck high
+cbsnews mediabiasfactcheck high
+chicagotribune mediabiasfactcheck high
+clinton.senate.gov n
+cnn mediabiasfactcheck mostly_factual
+conservativedailypost mediabiasfactcheck low
+dailyfeed.news n
+dailynewsforamericans politifact very_low
+data.bls.gov n very_high
+data.unhcr.org n very_high
+defense-usa.xyz n
+diamondandsilk.americandailynews.org mediabiasfactcheck low
+donaldjtrump n very_high
+econewsmedia.org mediabiasfactcheck low
+ed.gov n very_high
+empirenews.net realorsatire.com low
+emsnews.wordpress n low
+facts.hillaryhub n
+fda.gov n very_high
+foxnews mediabiasfactcheck mixed
+freeinfomedia n
+genius n
+geopolitica.ru n
+gopleader.gov n very_high
+gunrights.trendolizer n
+helloforos n
+hillaryclinton n very_high
+houstonchronicle-tv mediabiasfactcheck high
+irs.gov n very_high
+kff.org mediabiasfactcheck high
+libertyheadlines  mediabiasfactcheck mixed
+maga2020.us mediabiasfactcheck very_low
+mcclatchydc mediabiasfactcheck high
+me.me n
+minnesota.cbslocal mediabiasfactcheck high
+motherjones mediabiasfactcheck high
+my.barackobama n
+nbcnews mediabiasfactcheck high
+neonnettle mediabiasfactcheck low
+news.groopspeak mediabiasfactcheck mixed
+news.yahoo mediabiasfactcheck high
+newsweek mediabiasfactcheck mixed
+nobelprize.org n very_high
+nofakenews.online politifact very_low
+nourtey politifact very_low
+nowtrump politifact very_low
+nscdscamps.org n
+nyfoxnews.co n
+nypost mediabiasfactcheck mixed
+nytimes mediabiasfactcheck high
+nytiwes n
+obama.senate.gov n very_high
+obama.trendolizer n
+occupydemocrats mediabiasfactcheck low
+ourvoiceny mediabiasfactcheck high
+patrioticviralnews mediabiasfactcheck low
+pbs.org mediabiasfactcheck very_high
+pegida.trendolizer n
+pewforum.org mediabiasfactcheck very_high
+plannedparenthoodaction.org n
+pol.moveon.org mediabiasfactcheck mixed
+politico mediabiasfactcheck high
+politicono politifact very_low
+politics2020.info n
+politifact mediabiasfactcheck high
+polls.trendolizer n
+popularmechanics mediabiasfactcheck very_high
+puppetstringnews mediabiasfactcheck very_low
+query.nytimes mediabiasfactcheck high
+rare.us mediabiasfactcheck high
+realclearpolitics mediabiasfactcheck very_high
+reddit n
+republicanleader.house.gov n very_high
+reuters mediabiasfactcheck very_high
+rollingstone mediabiasfactcheck high
+sciam mediabiasfactcheck high
+senate.gov n very_high
+snapusanews n
+sotu.blogs.cnn mediabiasfactcheck very_high
+soutwest-air n
+ssa.gov n very_high
+straightstoned n
+switchboard.nrdc.org mediabiasfactcheck very_high
+tampabay mediabiasfactcheck high
+taxpolicycenter.org mediabiasfactcheck high
+teamster.org n
+the-fringe n
+theburningplatform n
+thedailyshow n
+thegatewaypundit mediabiasfactcheck low
+thegoldwater mediabiasfactcheck low
+thehill mediabiasfactcheck very_high
+themoscowtimes mediabiasfactcheck high
+thepatriotreport.net mediabiasfactcheck mixed
+therightists mediabiasfactcheck very_low
+theuspoliticalnews n
+theverge mediabiasfactcheck high
+time mediabiasfactcheck very_high
+tmzbreaking politifact very_low
+trainnews.info politifact high
+trendolizer n
+triblive mediabiasfactcheck high
+truthexam mediabiasfactcheck mixed
+twitter n
+unhcr.org n very_high
+usacarry n
+usadailyportal politifact very_low
+usamirrornews n
+usasnich politifact very_low
+vote-smart.org mediabiasfactcheck high
+vox mediabiasfactcheck very_high
+washingtonpost mediabiasfactcheck very_high
+whitehouse.gov n very_high
+wkrg n
+worldfactsftw n
+worldnewsdailyreport politifact very_low
+yournewswire mediabiasfactcheck low
+youtube n
+680news mediabiasfactcheck high
+9news.au n
+abc.net.au mediabiasfactcheck high
+abc13 n
+abc7ny n
+abcn.ws n
+acmilan n
+actions.sumofus.org n
+africaresource n
+al n
+alamy n
+aljazeera mediabiasfactcheck mixed
+americanmilitarynews mediabiasfactcheck very_high
+americanthinker mediabiasfactcheck low
+amp.twimg n
+animals.trendolizer n
+aol mediabiasfactcheck high
+apne.ws n
+apps.apple n
+arktimes mediabiasfactcheck high
+aspirantsg n
+au.news.yahoo mediabiasfactcheck high
+aviation-business-gazette n
+aviation-safety.net n
+azcentral mediabiasfactcheck high
+baltimoresun mediabiasfactcheck high
+barenakedislam mediabiasfactcheck low
+bbc.co.uk mediabiasfactcheck high
+bc.ctvnews.ca mediabiasfactcheck high
+bencarson.trendolizer n
+billboard n
+bit.ly n
+bitly n
+bleacherreport n
+blogs.wsj mediabiasfactcheck very_high 
+blogto n
+bloomberg mediabiasfactcheck very_high 
+bluechannel24web.wordpress n
+boingboing.net mediabiasfactcheck mixed 
+boredpanda n
+breaking13news n
+breaking911 mediabiasfactcheck very_low 
+bttoronto.ca n
+businesswire n
+buzzfeed mediabiasfactcheck mixed
+buzzfeednews mediabiasfactcheck mixed
+buzzpo n
+ca.news.yahoo mediabiasfactcheck high
+cbc.ca mediabiasfactcheck high
+cbc.sh n
+cbn mediabiasfactcheck mixed
+change.org mediabiasfactcheck high
+channel4 mediabiasfactcheck high
+cheezburger n
+chicago.eater n
+christchurchcincy n
+christianpost mediabiasfactcheck mixed
+churchandstate.org.uk n
+cnbc mediabiasfactcheck high
+cnnworldlive.cnn mediabiasfactcheck high
+cnsnews mediabiasfactcheck low
+collective-evolution mediabiasfactcheck low
+complex n
+conservativefrontline n
+conservativepost mediabiasfactcheck low
+conservativetribune mediabiasfactcheck low
+consumerist mediabiasfactcheck high
+cosmopolitan mediabiasfactcheck very_high
+cp24 mediabiasfactcheck high
+ctvnews.ca mediabiasfactcheck high
+cyberbullier.tumblr n
+dailykos mediabiasfactcheck mixed
+dailym.ai mediabiasfactcheck low
+dailymail.co.uk mediabiasfactcheck low
+dcpols n
+deadstate.org mediabiasfactcheck high
+defamer.gawker n
+denverpost mediabiasfactcheck high
+detroit.cbslocal mediabiasfactcheck high
+digitaltrends n
+duffelblog mediabiasfactcheck satire
+dw n
+eater n
+ebay n
+edition.cnn mediabiasfactcheck high
+english.alarabiya.net mediabiasfactcheck high
+eonline n
+espn n
+eurospaaromatics.blogspot n
+ew n
+expertrain n
+express.co.uk mediabiasfactcheck mixed
+facebook n
+firstwefeast n
+flagpole n
+fortune mediabiasfactcheck high
+forums.jetcareers n
+fox59 n
+fox8live n
+freebeacon mediabiasfactcheck mixed
+friendlyatheist.patheos n
+fromtheprojectionroom.wordpress n
+ft mediabiasfactcheck high
+fw.to n
+fxn.ws mediabiasfactcheck mixed
+gawker n
+globalgrind n
+globalnews.ca mediabiasfactcheck high
+go.cnn mediabiasfactcheck high
+gothamist mediabiasfactcheck high
+gov.uk n
+grist.org mediabiasfactcheck high
+hackread n
+halalmedia.jp n
+healthy-holistic-living mediabiasfactcheck low
+hoax-slayer.net mediabiasfactcheck very_high
+hollywoodlife n
+huff.to n
+huffpost mediabiasfactcheck mixed
+humanite.fr n
+huzlers mediabiasfactcheck satire
+i100.io n
+ibtimes mediabiasfactcheck mixed
+ibtimes.co.in mediabiasfactcheck mixed
+ibtimes.co.uk mediabiasfactcheck mixed
+ign n
+iheartradio.ca n
+imgur n
+ind.pn n
+independent.co.uk mediabiasfactcheck high
+inquirer mediabiasfactcheck high
+inquisitr mediabiasfactcheck mixed
+insider.foxnews mediabiasfactcheck mixed
+instagram n
+intellihub mediabiasfactcheck low
+itv mediabiasfactcheck high
+jewsnews.co.il mediabiasfactcheck low
+jihadwatch.org n
+joestrupp.blogspot n
+journalnow mediabiasfactcheck high
+jpupdates n
+kansascity mediabiasfactcheck high
+kdvr mediabiasfactcheck very_high
+konbini n
+kpopstarz n
+latimes mediabiasfactcheck high
+legalinsurrection mediabiasfactcheck high
+linkis n
+littlegreenfootballs mediabiasfactcheck high
+local10 n
+localmemphis n
+lolhome n
+lovethatnews n
+lpnt.fr n
+m.dailyhunt.in n
+marketwatch mediabiasfactcheck high
+mashable mediabiasfactcheck very_high
+mediamatters.org mediabiasfactcheck very_high
+metro.co.uk mediabiasfactcheck mixed
+mirror.co.uk mediabiasfactcheck mixed
+mlive mediabiasfactcheck high
+mostwatchedtoday n
+msnbc mediabiasfactcheck mixed
+mysanantonio n
+nationalpost mediabiasfactcheck high
+nationalreport.net mediabiasfactcheck satire
+nationalreview mediabiasfactcheck very_high
+navytimes mediabiasfactcheck high
+nbcnewyork mediabiasfactcheck high
+ncregister n
+news.artnet n
+news.sky mediabiasfactcheck high
+news360 n
+newsaline.co.uk n
+newscorpse mediabiasfactcheck mixed
+newslo mediabiasfactcheck satire
+newsone mediabiasfactcheck very_high
+newyork.cbslocal mediabiasfactcheck very_high
+newyorkupstate n
+nordpresse.be n
+now8news mediabiasfactcheck satire
+npr.org mediabiasfactcheck very_high
+nst.my n
+nydailynews mediabiasfactcheck mixed
+nydn.us n
+nytimes.co n
+occuworld.org n
+on.mash.to n
+on.rt mediabiasfactcheck very_high
+on.wsj mediabiasfactcheck very_high 
+oneindia mediabiasfactcheck mixed
+online.wsj mediabiasfactcheck very_high 
+opposingviews mediabiasfactcheck mixed
+ottawa.ctvnews.ca mediabiasfactcheck high
+ottawapolice.ca n
+ow.ly n
+pacificpundit mediabiasfactcheck low
+pamelageller n
+pandasecurity n
+papermag n
+pastemagazine mediabiasfactcheck high
+patheos mediabiasfactcheck mixed
+pennlive mediabiasfactcheck high
+people mediabiasfactcheck high
+planefinder.net n
+politicalgarbagechute mediabiasfactcheck satire
+popdust n
+powderedwigsociety mediabiasfactcheck low
+qz mediabiasfactcheck high
+realfarmacy mediabiasfactcheck low
+realnewsrightnow mediabiasfactcheck satire
+reviveusa n
+rightwingnews mediabiasfactcheck low
+rt mediabiasfactcheck very_high
+russia.trendolizer n
+sandiegouniontribune mediabiasfactcheck high
+satiratribune mediabiasfactcheck satire
+sbnation n
+scoop.it n
+short.ninem.sn n
+sickchirpse mediabiasfactcheck very_low
+slate mediabiasfactcheck high
+smh.au mediabiasfactcheck very_high
+snopes mediabiasfactcheck high
+sowetanlive.co.za n
+space mediabiasfactcheck very_high
+speisa n
+sportsnet.ca n
+standard.co.uk mediabiasfactcheck high
+startrek n
+stltoday mediabiasfactcheck high
+straitstimes mediabiasfactcheck very_high
+sunnewsnetwork.ca n
+swissinfo.ch mediabiasfactcheck high
+tattoo.redsom n
+techcrunch mediabiasfactcheck high
+telegraph.co.uk mediabiasfactcheck mixed
+tennessean mediabiasfactcheck high
+thatsfake n
+theartnewspaper n
+theatlantic mediabiasfactcheck high
+thebea.st n
+thebiznewz n
+thechive n
+thedenverchannel n
+theepochtimes mediabiasfactcheck mixed
+theglobeandmail mediabiasfactcheck high
+theguardian mediabiasfactcheck mixed
+thehollywoodgossip n
+themideastbeast n
+themindunleashed mediabiasfactcheck low
+thenation mediabiasfactcheck high
+thenewsnerd mediabiasfactcheck satire
+theonion mediabiasfactcheck satire
+thepeoplescube mediabiasfactcheck satire
+thepeoplesview.net n
+thepoke.co.uk n
+thepoliticalinsider mediabiasfactcheck mixed
+thescore n
+thestar n
+thestar.my n
+thevalleyreport n
+thinkprogress.org mediabiasfactcheck mixed
+thrillist mediabiasfactcheck high
+tinyurl n
+tmz mediabiasfactcheck mixed
+toronto.citynews.ca n
+toronto.ctvnews.ca mediabiasfactcheck high
+torontosun mediabiasfactcheck very_high
+tpnn n
+travellinginfinity n
+treehugger mediabiasfactcheck high
+trib.al n
+tumblr n
+twitchy mediabiasfactcheck mixed
+ufosightingshotspot.blogspot n
+universalfreepress n
+upi mediabiasfactcheck high
+usatoday mediabiasfactcheck high
+usmagazine n
+usmessageboard n
+usnewse n
+variety mediabiasfactcheck high
+verysmartbrothas.theroot n
+vice mediabiasfactcheck high
+video.foxnews mediabiasfactcheck mixed
+vine.co n
+vulture mediabiasfactcheck high
+wapo.st n
+weaselzippers.us mediabiasfactcheck mixed
+weeklyworldnews n
+wereblog n
+wgntv mediabiasfactcheck high
+wired mediabiasfactcheck high
+wmbfnews n
+wtvr n
+wwwnews.live.bbc.co.uk n
+xtra.thoughtremixer n
+yahoo mediabiasfactcheck high
+ynetnews mediabiasfactcheck high
+zerohedge mediabiasfactcheck mixed
