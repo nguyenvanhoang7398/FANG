@@ -81,6 +81,7 @@ python run_graph.py -t news_graph -m gcn -p data/news_graph --percent 90 --epoch
 ## Other resources
 * Relation filtering, Stance detection, Sentiment Classification models can be found [here](https://github.com/nguyenvanhoang7398/FANG-helper)
 * Social media retriever used to crawl unprocessed data, implemented by Kai Shu et al. can be found [here](https://github.com/KaiDMML/FakeNewsNet/)
+* The implementation of GraphSage from which this code was adapted can be found [here](https://github.com/twjiang/graphSAGE-pytorch)
 
 ## Cite
 Please cite our paper as below if you use this code in your work:
