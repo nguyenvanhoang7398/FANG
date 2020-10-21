@@ -1,6 +1,8 @@
 # Factual News Graph (FANG)
-This is the implementation of FANG - a graph representation learning framework for fake news detection. For more details, please refer to our paper.
-Van-Hoang Nguyen, Kazunari Sugiyama, Preslav Nakov, Min-Yen Kan, FANG: Leveraging Social Context for Fake News Detection Using Graph Representation (CIKM 2020)
+This is the implementation of FANG - a graph representation learning framework for fake news detection. 
+
+For more details, please refer to our paper.
+[Van-Hoang Nguyen, Kazunari Sugiyama, Preslav Nakov, Min-Yen Kan, FANG: Leveraging Social Context for Fake News Detection Using Graph Representation (CIKM 2020)](https://dl.acm.org/doi/10.1145/3340531.3412046)
 
 
 ## Installation
@@ -79,3 +81,26 @@ python run_graph.py -t news_graph -m gcn -p data/news_graph --percent 90 --epoch
 ## Other resources
 * Relation filtering, Stance detection, Sentiment Classification models can be found [here](https://github.com/nguyenvanhoang7398/FANG-helper)
 * Social media retriever used to crawl unprocessed data, implemented by Kai Shu et al. can be found [here](https://github.com/KaiDMML/FakeNewsNet/)
+
+## Cite
+Please cite our paper as below if you use this code in your work:
+
+```
+@inproceedings{10.1145/3340531.3412046,
+author = {Nguyen, Van-Hoang and Sugiyama, Kazunari and Nakov, Preslav and Kan, Min-Yen},
+title = {FANG: Leveraging Social Context for Fake News Detection Using Graph Representation},
+year = {2020},
+isbn = {9781450368599},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3340531.3412046},
+doi = {10.1145/3340531.3412046},
+abstract = {We propose Factual News Graph (FANG), a novel graphical social context representation and learning framework for fake news detection. Unlike previous contextual models that have targeted performance, our focus is on representation learning. Compared to transductive models, FANG is scalable in training as it does not have to maintain all nodes, and it is efficient at inference time, without the need to re-process the entire graph. Our experimental results show that FANG is better at capturing the social context into a high fidelity representation, compared to recent graphical and non-graphical models. In particular, FANG yields significant improvements for the task of fake news detection, and it is robust in the case of limited training data. We further demonstrate that the representations learned by FANG generalize to related tasks, such as predicting the factuality of reporting of a news medium.},
+booktitle = {Proceedings of the 29th ACM International Conference on Information &amp; Knowledge Management},
+pages = {1165–1174},
+numpages = {10},
+keywords = {representation learning, fake news, social networks, graph neural networks, disinformation},
+location = {Virtual Event, Ireland},
+series = {CIKM '20}
+}
+```
