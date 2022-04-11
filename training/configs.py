@@ -21,8 +21,8 @@ class BasicConfig(object):
         self.batch_size = batch_size
 
     @staticmethod
-    def get_news_graph(epochs=100):
-        gcn_configs = BasicConfig.get_common(epochs=epochs)
+    def get_news_graph(epochs=100, use_cuda=True):
+        gcn_configs = BasicConfig.get_common(epochs=epochs, use_cuda=use_cuda)
         gcn_configs.eval_every_epoch_num = 50
         gcn_configs.learning_rate = 1e-4
         gcn_configs.weight_decay = 1e-2
