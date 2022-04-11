@@ -5,9 +5,13 @@ For more details, please refer to our paper.
 [Van-Hoang Nguyen, Kazunari Sugiyama, Preslav Nakov, Min-Yen Kan, FANG: Leveraging Social Context for Fake News Detection Using Graph Representation (CIKM 2020)](https://dl.acm.org/doi/10.1145/3340531.3412046)
 
 
-## Installation
+## Environment Setup
 ```bash
-conda env create -f environment. yml 
+# Install environment
+conda env create -f environment.yml
+
+# Activate the environment
+conda activate test
 ```
 
 ## Requirements
@@ -66,6 +70,7 @@ optional arguments:
                         path to pre-trained model directory
   --pretrained_step PRETRAINED_STEP
                         pre-trained model step
+  --use_cpu            whether to use CPU instead of CUDA
 ```
 
 Training FANG for `30` epochs at `90%` data with `temporality`, `stance loss` and `proximity loss`.

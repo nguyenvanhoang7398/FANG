@@ -30,6 +30,7 @@ def parse_args():
     parser.add_argument('--attention', action="store_true", help='whether to use attention')
     parser.add_argument('--pretrained_dir', type=str, default="", help='path to pre-trained model directory')
     parser.add_argument('--pretrained_step', type=int, default=-1, help='pre-trained model step')
+    parser.add_argument('--use_cpu', action="store_true", help='whether to use CPU instead of CUDA')
     return parser.parse_args()
 
 
@@ -47,7 +48,8 @@ def news_graph(task, model, graph_config, run_config, percent):
 
 def fang(args):
     exp_name = get_exp_name(args.task, args.model)
-    basic_config = BasicConfig.get_common(epochs=args.epochs)
+    basic_config = BasicConfig.get_common(
+        epochs=args.epochs, use_cuda=not args.use_cpu)
     fang_config = FangConfig.get_common(args.path, train_test_val="train_test_{}.json".format(args.percent))
     if args.model in ["graph_sage"]:
         run_fang_graph_sage(exp_name, basic_config, fang_config, args.community,
@@ -61,7 +63,8 @@ if __name__ == "__main__":
     p_args = parse_args()
     config = GraphConfig.get_common()
     if p_args.task == "news_graph":
-        news_graph(p_args.task, p_args.model, config, BasicConfig.get_news_graph(p_args.epochs), p_args.percent)
+        news_graph(p_args.task, p_args.model, config, BasicConfig.get_news_graph(
+            p_args.epochs, use_cuda=not p_args.use_cpu), p_args.percent)
     elif p_args.task == "fang":
         p_args.community = False
         fang(p_args)
